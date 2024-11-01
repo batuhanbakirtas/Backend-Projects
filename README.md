@@ -1,2 +1,1 @@
-# Java101-Projects
-**Java101-Projects:**  Projects and exercises from Java 101 lessons, covering basics, data structures, and algorithms. Each project has a README for details.
+Backend Projects: This repository includes a variety of backend-focused projects and exercises, covering Java practices, SQL, Java Spring, and large-scale Java applications. Ideal for honing backend development skills and building a strong foundation in Java.
